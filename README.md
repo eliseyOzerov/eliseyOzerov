@@ -23,9 +23,8 @@ I'm a mobile app developer predominantly working with Flutter atm. I also design
   * Attention to details leads to great products
   * Always strive to improve, or go do something else
   * Having fun at work is a big part of life satisfaction
-  * It should always be possible to do office work remotely
-  * Everyone should be able to take a joke
-  * People quit managers, not companies (mostly)
+  * It should be possible to do most office tasks remotely
+  * Collaboration is more productive than rivalry
   
   </p>
 </details>
