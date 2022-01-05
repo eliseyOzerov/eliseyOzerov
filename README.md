@@ -44,15 +44,19 @@ I'm a mobile app developer predominantly working with Flutter atm. I also design
   </p>
 </details>
 
-<!--
-- [ ] Learn ![-](https://img.shields.io/badge/-iOS-green) development \[#####--------------------]
-- [ ] Get an iOS job and become an iOS wizard 🧙‍♂️
-- [ ] Get back to studying CS&EE in free time
-- [ ] Make a suite of apps that make life easier 📉
-- [ ] Work on making quality housing, food and education more accessible
-- [ ] Work on automation and security (maybe)
-- [ ] Retire and create random bots, visualizations, IOT stuff, 3D spaces etc
--->
+<details>
+  <summary><b>🎯 Goals</b></summary>
+  <p>
+    
+  - [ ] Get an iOS job and become an iOS wizard 🧙‍♂️
+  - [ ] Get back to studying CS&EE in free time
+  - [ ] Make a suite of apps that make life easier 📉
+  - [ ] Work on making quality housing, food and education more accessible
+  - [ ] Work on automation and security (maybe)
+  - [ ] Retire and create random bots, visualizations, IOT stuff, 3D spaces etc
+  
+  </p>
+</details>
 
 ## Personal projects
 
