@@ -64,5 +64,5 @@ I'm a mobile app developer predominantly working with Flutter atm. I also design
 📷 [My personal photography website](https://www.eliseyozerov.com) ![-](https://img.shields.io/static/v1?label=using&message=Webflow&color=4353ff) <br>
 💰 [A budgeting app](https://github.com/eliseyOzerov/budget_swiftUI) with a catchy name **_Budget_** ![-](https://img.shields.io/static/v1?label=using&message=SwiftUI&color=F05137)
 
-**In progress**
-* Redesign and remake of said budgeting app in UIKit with added features
+**In progress** <br>
+⛏ Redesign and remake of **_Budget_** in UIKit with added features
