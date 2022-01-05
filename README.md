@@ -6,7 +6,7 @@
 ![-](https://img.shields.io/badge/IDE-XCode-7300ff?logo=xcode&style=flat)
 ![-](https://img.shields.io/badge/GIT-GitKraken-7300ff?logo=gitkraken&style=flat)
 ![-](https://img.shields.io/badge/CHAT-Slack-7300ff?logo=slack&style=flat)
-![-](https://img.shields.io/badge/IDE-Discord-7300ff?logo=discord&style=flat)
+![-](https://img.shields.io/badge/CHAT-Discord-7300ff?logo=discord&style=flat)
 ![-](https://img.shields.io/badge/WEB-Brave-7300ff?logo=brave&style=flat)
 ![-](https://img.shields.io/badge/DESIGN-Figma-7300ff?logo=figma&style=flat)
 ![-](https://img.shields.io/badge/MUSIC-Spotify-7300ff?logo=spotify&style=flat)
