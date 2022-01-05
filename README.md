@@ -13,7 +13,7 @@
 
 ### Hi, I'm Elisey! 👋
 
-I'm a mobile app developer predominantly working with Flutter atm. I also design all my personal projects and sometimes do photography. I love binging a good series, playing competitive shooters and role playing games.
+I'm a mobile app developer predominantly working with Flutter atm. I also design all my personal projects and sometimes do photography. I love binging a good series, playing FPS and RP games and going out for walks.
 
 <details>
   <summary><b>✅ Values</b></summary>
