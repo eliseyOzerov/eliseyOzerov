@@ -1,9 +1,6 @@
-![-](https://img.shields.io/badge/OS-Windows-7300ff?logo=windows&style=flat)
 ![-](https://img.shields.io/badge/OS-MacOS-7300ff?logo=macos&style=flat)
 ![-](https://img.shields.io/badge/LANG-Dart-7300ff?logo=flutter&style=flat)
-![-](https://img.shields.io/badge/LANG-Swift-7300ff?logo=swift&style=flat)
 ![-](https://img.shields.io/badge/IDE-VSCode-7300ff?logo=visualstudiocode&style=flat)
-![-](https://img.shields.io/badge/IDE-XCode-7300ff?logo=xcode&style=flat)
 ![-](https://img.shields.io/badge/GIT-GitKraken-7300ff?logo=gitkraken&style=flat)
 ![-](https://img.shields.io/badge/CHAT-Slack-7300ff?logo=slack&style=flat)
 ![-](https://img.shields.io/badge/CHAT-Discord-7300ff?logo=discord&style=flat)
@@ -47,7 +44,6 @@ I'm a mobile app developer predominantly working with Flutter atm. I also design
   <summary><b>🎯 Goals</b></summary>
   <p>
     
-  - [ ] Get an iOS job and become an iOS wizard 🧙‍♂️
   - [ ] Get back to studying CS&EE in free time
   - [ ] Make a suite of apps that make life easier 📉
   - [ ] Work on making quality housing, food and education more accessible
