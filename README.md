@@ -56,8 +56,8 @@ I'm a mobile app developer predominantly working with Flutter atm. I also design
 ## Personal projects
 
 **Completed** <br>
-📷 [My personal photography website](https://www.eliseyozerov.com) ![-](https://img.shields.io/static/v1?label=using&message=Webflow&color=4353ff) <br>
 💰 [A budgeting app](https://github.com/eliseyOzerov/budget_swiftUI) with a catchy name **_Budget_** ![-](https://img.shields.io/static/v1?label=using&message=SwiftUI&color=F05137)
 
 **In progress** <br>
-⛏ Redesign and remake of **_Budget_** in UIKit with added features
+📊 [A tracking app](https://github.com/eliseyOzerov/Tracker/tree/main/Tracker) for food and workout tracking (currently working on SwiftData for workout planning)
+🥳 [A social app](https://github.com/eliseyOzerov/letsgo) for searching and planning activities with friends (currently working on a backend integration)
