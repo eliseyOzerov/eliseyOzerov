@@ -33,7 +33,7 @@ I'm a mobile app developer predominantly working with Flutter atm. I also design
   - [x] Get absolutely ✨ **_HYPED_** ✨ by my first `Hello World!` in C++ in uni
   - [x] Figure I want to create applications
   - [x] Try ![-](https://img.shields.io/badge/-web-red) and ![-](https://img.shields.io/badge/-android-red) development. No MacBook, can't try iOS 😢
-  - [x] Drop out, get a full-time job as a Flutter developer 👍 
+  - [x] Pursue a full-time job as a Flutter developer 👍
   - [x] Develop platform specific code and start learning ![-](https://img.shields.io/badge/-iOS-success)
   - [x] Learn ![-](https://img.shields.io/badge/-Flutter-blue) like a pro 💯, work as a team lead and on solo projects
   
@@ -46,7 +46,6 @@ I'm a mobile app developer predominantly working with Flutter atm. I also design
     
   - [ ] Get back to studying CS&EE in free time
   - [ ] Make a suite of apps that make life easier 📉
-  - [ ] Work on making quality housing, food and education more accessible
   - [ ] Work on automation and security (maybe)
   - [ ] Retire and create random bots, visualizations, IOT stuff, 3D spaces etc
   
